@@ -2,6 +2,8 @@
 
 Convert .xspf format playlists to Spotify compatible format, ready for importing
 
+Hint: Can be used in conjunction with https://github.com/stu247/spl to extract playlists from Sonos devices and put them in Spotify :)
+
 ## Installation
 
 Install the gem:
