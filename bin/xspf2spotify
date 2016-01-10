@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'xspf2spotify'
+Xspf2spotify::App.run!

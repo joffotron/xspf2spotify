@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+ <title>Test Playlist</title>
+ <trackList>
+  <track>
+   <creator>Sia</creator>
+   <title>Chandelier - Piano Version</title>
+   <album>1000 Forms of Fear (Deluxe Version)</album>
+   <location>x-sonos-spotify:spotify%3atrack%3a4S7okqiTCIeIH2G8dOi9k9?sid=12&flags=8224&sn=3</location>
+  </track>
+  <track>
+   <creator>Bibio</creator>
+   <title>Petals</title>
+   <album>Petals</album>
+   <location>x-sonos-spotify:spotify%3atrack%3a4dzp8GRpioWBDVABY2JI42?sid=12&flags=8224&sn=3</location>
+  </track>
+  <track>
+   <creator>Bob Moses</creator>
+   <title>Hands To Hold - Acoustic</title>
+   <album>All In All</album>
+   <location>x-sonos-spotify:spotify%3atrack%3a4Z98435mopNhhObg4MJ5Jf?sid=12&flags=8224&sn=3</location>
+  </track>
+  <track>
+   <creator>Radiohead</creator>
+   <title>True Love Waits - Live In Oslo</title>
+   <album>I Might Be Wrong</album>
+   <location>x-sonos-spotify:spotify%3atrack%3a4lxIVVC29faT3iIb1uEI4Y?sid=12&flags=8224&sn=3</location>
+  </track>
+  <track>
+   <creator>Daggy Man</creator>
+   <title>Little Whip</title>
+   <album>Little Whip</album>
+   <location>x-sonos-spotify:spotify%3atrack%3a6n9NIxMa67H5WCAWwLcV1J?sid=12&flags=8224&sn=3</location>
+  </track>
+  <track>
+   <creator>Moses Sumney</creator>
+   <title>Pleas</title>
+   <album>Pleas</album>
+   <location>x-sonos-spotify:spotify%3atrack%3a0QaWTHVVZq8L6hYEkKsnN3?sid=12&flags=8224&sn=3</location>
+  </track>
+ </trackList>
+</playlist>
