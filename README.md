@@ -18,7 +18,7 @@ You can then copy the contents of the spotifylist.txt into your clipboard (on OS
 
 ## Development
 
-After checking out the repo, run `bunde install` to install dependencies. Then, run `rspec` to run the tests.
+After checking out the repo, run `bundle install` to install dependencies. Then, run `rspec` to run the tests.
 
 
 ## Contributing
