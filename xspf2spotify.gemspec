@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Joseph Miller']
   spec.email         = ['joff@joff.codes']
 
-  spec.summary       = %q{Convert .xspf format playlists to Spotify compatible format, ready for importings}
+  spec.summary       = %q{Convert .xspf format playlists to Spotify compatible format, ready for importing}
   spec.homepage      = 'https://github.com/joffotron/xspf2spotify'
   spec.license       = 'MIT'
 
